@@ -13,12 +13,12 @@ Clone this repository:
 ```bash
 git clone https://github.com/AbhayAL1/github-dorking-tool.git
 cd github-dorking-tool
-chmod +x github_dorking.sh
+chmod +x githubdork.sh
 ```
 
 ## Usage
 ```bash
-./github_dork_tool.sh <target>
+./githubdork.sh <target>
 
-Example: ./github_dork_tool.sh nasa.gov
+Example: ./githubdork.sh nasa.gov
 ```
